@@ -3,7 +3,11 @@ Main SCSS file / Fresh
 ========================================================================== */
 
 //Imports
+
 @import 'partials/colors';
+
+@import 'project/variables';
+
 @import 'partials/navbar';
 @import 'partials/dropdowns';
 @import 'partials/sections';
@@ -18,3 +22,4 @@ Main SCSS file / Fresh
 @import 'partials/responsive';
 @import 'partials/utils';
 
+@import 'project/styles';
